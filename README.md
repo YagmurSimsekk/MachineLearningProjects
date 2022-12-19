@@ -5,5 +5,5 @@
 My individual projects, including datasets, Flask applications, and APIs, are available here. Some projects are applicable with Docker.
 
 ## List of Projects
-* Logistic regression model tries to predict the price of a given car.
-* Credit scoring uses decision tree algorithms like random forest and gradient boosting to predict if the customer is likely to pay off  the debt.
+* The Churn Project utilized the linear regression algorithm to determine if a customer was likely to leave or not.
+* Credit rating determines if a consumer is likely to pay back the debt using decision tree techniques like random forest and gradient boosting.
