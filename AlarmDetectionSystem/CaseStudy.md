@@ -10,10 +10,10 @@ missing relevant alarms.**
 # Data
 Data set that was gathered in a study on intensive care data management with a German university. The data set contains 4,008 joint measurements of
 basic vital signs as well as information about alarms. The features are
-● hr : heart rate
-● rr : respiratory rate
-● spo2 : oxygen saturation measured via pulsoxymetrie
-● sys : systolic blood pressure (non-invasive)
-● dia : diastolic blood pressure (non-invasive)
-● monitor_alarm : whether patient monitor throws an alarm
-● doctor_alarm : whether the doctor would have wanted an alarm (manual evaluation)
+- hr : heart rate
+- rr : respiratory rate
+- spo2 : oxygen saturation measured via pulsoxymetrie
+- sys : systolic blood pressure (non-invasive)
+- dia : diastolic blood pressure (non-invasive)
+- monitor_alarm : whether patient monitor throws an alarm
+- doctor_alarm : whether the doctor would have wanted an alarm (manual evaluation)
