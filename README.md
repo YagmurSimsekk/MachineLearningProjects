@@ -1,9 +1,11 @@
 <div Align="center"><h1> <a href="https://shsarv.github.io/Machine-Learning-Projects/">Machine Learning Projects </a></h1></div>
   
-**This repository contains some of the machine learning projects that I have done while learning machine learning concepts.**
+**This repository showcases a selection of my machine learning projects, which I developed as part of my learning journey in the field.**
 
-Projects, including datasets, Flask applications, and APIs, are available here. Some projects are applicable with Docker.
+The projects featured here encompass a wide range of applications, including datasets, Flask applications, and APIs. Additionally, some projects are designed to be compatible with Docker.
 
 ## List of Projects
-* The Churn Project utilized the logistic regression to determine if a customer was likely to leave or not.
-* Credit rating determines if a consumer is likely to pay back the debt using decision tree algorithms like random forest and gradient boosting.
+* The Churn Project employs logistic regression to assess the likelihood of customer churn.
+* Credit rating project, which includes data, utilizes decision tree algorithm to determine the probability of a consumer repaying their debt. The dataset is also provided.
+* Neural Network project focuses on image classification and employs Convolutional Neural Networks (CNNs) to achieve accurate results. The project leverages popular frameworks such as TensorFlow and Keras to build and train these neural networks effectively. Additionally, pretrained neural networks are utilized, allowing for efficient transfer learning. The project also delves into the internals of CNNs, offering insights into their inner workings. Furthermore, the training process incorporates data augmentations, a technique that generates additional training data to enhance model performance. By encompassing these key elements, the project demonstrates a comprehensive exploration of image classification using CNNs and provides valuable insights into the intricacies of training models with various techniques and frameworks.
+* Alarm Detection System project addresses a prevalent challenge in healthcare: the occurrence of false negatives and false positives in ICU alarm systems. To mitigate this issue, the project employs Random Forest, a machine learning algorithm, and explores the application of different thresholds. This approach aims to strike a balance between correctly identifying relevant alarms and avoiding the misclassification of irrelevant ones. Notably, the project includes the provision of a dataset within the project folder for comprehensive analysis and experimentation.
